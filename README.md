@@ -18,4 +18,3 @@ A Retrieval-Augmented Generation (RAG) application built using:
 ## Installation
 
 ```bash
-pip install -r requirements.txt
