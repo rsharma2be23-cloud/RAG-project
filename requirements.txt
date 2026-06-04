@@ -1,0 +1,41 @@
+# Core LLM + RAG framework
+langchain
+langchain-community
+langchain-core
+
+# Mistral API support
+langchain_mistralai
+mistralai
+
+# Embeddings (choose one or more)
+sentence-transformers
+huggingface-hub
+
+# Vector databases (pick one; FAISS is simplest)
+faiss-cpu
+chromadb
+
+# Document loaders / parsing
+pypdf
+python-docx
+unstructured
+
+# Text splitting & processing
+tiktoken
+
+# API framework (optional but recommended)
+fastapi
+uvicorn
+
+# Environment & config
+python-dotenv
+
+# Data handling
+numpy
+pandas
+
+# Logging & utilities
+tqdm
+
+# Optional: better async support
+httpx
